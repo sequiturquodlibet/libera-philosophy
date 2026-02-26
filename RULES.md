@@ -46,7 +46,7 @@ In keeping with the spirit of philosophy, we ask that you refrain from bad-faith
 
 Please avoid soapboxing -- that is, habitually using ##philosophy to promote your pet ideas without engaging in any following critical examination of those pet ideas. While it's fine to have a specific area of interest, "beating dead horses" stifles productive inquiry.
 
-Topics will not be curtailed merely because they are controversial or unpopular - as long as the conversation proceeds in good faith. That being said, ##philosophy is <b>not</b> an appropriate venue for inflammatory talk about surface-level politics. Discussions about recent news items should ideally be framed in an abstracted or theoretical way, and not with the intent to agitate.
+Topics will not be curtailed merely because they are controversial or unpopular, as long as the conversation proceeds in good faith. That being said, ##philosophy is <b>not</b> an appropriate venue for inflammatory talk about contemporary politics. Discussions about recent news items should ideally be framed in an abstracted or theoretical way &mdash; and never with the intent to agitate.
 
 Occasional social chit-chat is fine, but we invite you to take extended off-topic discussions to ##philosophy-off.
 
