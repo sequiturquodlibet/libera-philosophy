@@ -63,6 +63,4 @@ If you need assistance, please join ##philosophy-ops to speak to one of our mode
 
 quodlibet (owner)<br>
 wodencafe<br>
-blueagain<br>
 tinwhiskers<br>
-arryana
