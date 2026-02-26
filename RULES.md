@@ -38,16 +38,17 @@ The bread-and-butter of ##philosophy is the [traditional academic discipline](ht
  - [Logic](https://en.wikipedia.org/wiki/Philosophy_of_logic)
 	 - The study of correct reasoning. It includes both [formal](https://en.wikipedia.org/wiki/Logic#Formal_logic) and [informal](https://en.wikipedia.org/wiki/Logic#Informal_logic) logic.
 
-*These* topics are always welcome. However, we realize many users aren't very familiar with formal philosophy and we don't want to exclude them. So conversations on a wide variety of adjacent topics are acceptable, for example: literature, history, and social sciences. ##philosophy approaches these in the spirit of philosophy -- that is, a good-faith exploration of ideas, as opposed to technical minutiae or polemics.
+*These* topics are always welcome. However, we realize many users aren't very familiar with formal philosophy and we don't want to exclude them. So conversations on a wide variety of adjacent topics are acceptable, for example: literature, history, and social sciences. ##philosophy approaches these in the spirit of philosophy &mdash; that is, a good-faith exploration of ideas, as opposed to technical minutiae or polemics.
 
 **Ground Rules:**
+
 In keeping with the spirit of philosophy, we ask that you refrain from bad-faith interactions with other users. Examples of such interactions include: name-calling, strawman arguments, and bullying tactics.
 
 Please avoid soapboxing -- that is, habitually using ##philosophy to promote your pet ideas without engaging in any following critical examination of those pet ideas. While it's fine to have a specific area of interest, "beating dead horses" stifles productive inquiry.
 
-Topics will not be curtailed merely because they are controversial or unpopular - as long as the conversation proceeds in good faith. However, please avoid political talk regarding recent news items, or at minimum try reframe such talk in an abstracted, philosophical way, so that others can engage with you. ##philosophy is not a proper venue for partisanship.
+Topics will not be curtailed merely because they are controversial or unpopular - as long as the conversation proceeds in good faith. That being said, ##philosophy is <b>not</b> an appropriate venue for inflammatory talk about surface-level politics. Discussions about recent news items should ideally be framed in an abstracted or theoretical way, and not with the intent to agitate.
 
-Occasional social chit-chat is fine as long as it doesn't dominate more topical conversations. We invite you to take extended off-topic discussions to ##philosophy-off.
+Occasional social chit-chat is fine, but we invite you to take extended off-topic discussions to ##philosophy-off.
 
 **Other guidelines:**
 
